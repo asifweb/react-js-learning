@@ -1,0 +1,42 @@
+.menu ul {
+  margin-left: 0px;
+  padding-left: 0px;
+}
+.menu ul {
+  background-color: #383838;
+}
+.review-slider li,
+.more-reviews li {
+  list-style-type: none;
+}
+.review-slider li img {
+  width: 180px;
+  height: auto;
+}
+
+.main div.video,
+.main div.news {
+  float: left;
+  width: 100%;
+  height: 100%;
+}
+.news-right-grid p {
+  margin-bottom: 0px;
+}
+.top-header {
+  position: absolute;
+  left: 95px;
+  right: 0px;
+}
+.header-info h1 {
+  margin-top: 55px;
+}
+.video-content {
+  position: relative;
+  z-index: -1;
+  top: 75px;
+}
+.content-grid h3 {
+  height: 55px;
+  overflow: hidden;
+}
